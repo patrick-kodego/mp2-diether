@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49fb6d47.css",
+    "main.js": "/static/js/main.a8b37f90.js",
+    "static/media/mountain-login-bg.jpg": "/static/media/mountain-login-bg.e22a401aa5f8297f7a62.jpg",
+    "static/media/dashboard-bg.jpg": "/static/media/dashboard-bg.b80a1d2d737e2e32a76b.jpg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.33a73aedac5ea8df2ce0.jpg",
+    "static/media/sidenav-bg.jpg": "/static/media/sidenav-bg.4614cd8184b611928e0e.jpg",
+    "index.html": "/index.html",
+    "main.49fb6d47.css.map": "/static/css/main.49fb6d47.css.map",
+    "main.a8b37f90.js.map": "/static/js/main.a8b37f90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49fb6d47.css",
+    "static/js/main.a8b37f90.js"
+  ]
+}
